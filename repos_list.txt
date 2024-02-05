@@ -1,0 +1,2 @@
+https://github.com/digital-botanical-gardens-initiative/directus-db.git
+https://github.com/digital-botanical-gardens-initiative/dbgi-object-manager.git
