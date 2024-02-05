@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Path to the repository list file
-REPO_LIST_FILE="./repos_list.txt"
+REPO_LIST_FILE="./git_repos/commons-server-git-fetcher/repos_list.txt"
 
 # Path to the template script
-TEMPLATE_SCRIPT="./git_fetcher.sh"
+TEMPLATE_SCRIPT="./git_repos/commons-server-git-fetcher/git_fetcher.sh"
 
 
 # Check if the repository list file exists
