@@ -1,2 +1,4 @@
 https://github.com/digital-botanical-gardens-initiative/directus-db.git
 https://github.com/digital-botanical-gardens-initiative/dbgi-object-manager.git
+https://github.com/commons-research/commons-server-git-fetcher.git
+https://github.com/digital-botanical-gardens-initiative/taxonomical-preparator.git
